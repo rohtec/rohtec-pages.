@@ -181,14 +181,15 @@ b {
 		position: absolute;
 		margin-left: -42.5%;
 		max-height: 100%;
-	
+	        border-top-left-radius: none;
+		border-top-right-radius: none;
 	}
 	.righttable {
 		width: 193%;
 		top: 45.5%;
 		position: absolute;
 		margin-left: -42%;
-		background-color: rgba(255,255,255,0.9);
+		background-color: rgba(255,255,255,1);
 		max-height: 100%;
     }.circle {
 		border:none;
